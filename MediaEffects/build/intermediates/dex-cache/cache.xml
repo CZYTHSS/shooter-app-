@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\chenz\AndroidStudioProjects\MediaEffects\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\chenz\AndroidStudioProjects\MediaEffects\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_f2b1baad80246985e24ac414baae0a425bb45d44\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chenz\AndroidStudioProjects\MediaEffects\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="810d5c3351e9aae3bdaa41c9dda53ee4229ee242">
+        <dex dex="C:\Users\chenz\AndroidStudioProjects\MediaEffects\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9e0c6a9b00c7bab38abe9bbb676f574a3427fbac\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chenz\AndroidStudioProjects\MediaEffects\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
+        <dex dex="C:\Users\chenz\AndroidStudioProjects\MediaEffects\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_a037a3ca96f1f5f45bcb5fd45135b7146b56ece4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chenz\AndroidStudioProjects\MediaEffects\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="C:\Users\chenz\AndroidStudioProjects\MediaEffects\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.1.1_0e68a3f60975f96caee9006fc9486b8c453d7b8d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chenz\AndroidStudioProjects\MediaEffects\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\chenz\AndroidStudioProjects\MediaEffects\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_7c777606781f556c466acc51f815e08b5682b473\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chenz\AndroidStudioProjects\MediaEffects\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\chenz\AndroidStudioProjects\MediaEffects\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_fdab0625b570f3c1c407139c8d975f0272e14eda\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chenz\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.1\3af19f153122737b372622fa6c81dd11a1c6b999\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\chenz\AndroidStudioProjects\MediaEffects\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_9b29b78ae016011998bb12ec9be302e3562f5c53\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chenz\AndroidStudioProjects\MediaEffects\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\chenz\AndroidStudioProjects\MediaEffects\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_7d6685120e901c26580977172a1d418f7a864349\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chenz\AndroidStudioProjects\MediaEffects\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\chenz\AndroidStudioProjects\MediaEffects\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_a824fb043b9c67e35296591eb68e38b869938512\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chenz\AndroidStudioProjects\MediaEffects\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
+        <dex dex="C:\Users\chenz\AndroidStudioProjects\MediaEffects\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-24.1.1_c4d5d89272a1a115a01c68f04bfb44b1534403e1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\chenz\AndroidStudioProjects\MediaEffects\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8234d411aa2cd67f493f58a31d17a6533175ffef">
+        <dex dex="C:\Users\chenz\AndroidStudioProjects\MediaEffects\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ab5544adc98a3d753e0c4c0239b1869989a854e9\classes.dex" />
+    </item>
+
+</items>

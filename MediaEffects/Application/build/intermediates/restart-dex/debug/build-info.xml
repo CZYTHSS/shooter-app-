@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="560dpi"
+    format="7"
+    timestamp="26519662113370"
+    token="-8820568787622204756" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="C:\Users\chenz\AndroidStudioProjects\MediaEffects\Application\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
+
+    <build timestamp="15313278116497" >
+        <artifact
+            location="C:\Users\chenz\AndroidStudioProjects\MediaEffects\Application\build\outputs\apk\Application-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="23455477010155"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\chenz\AndroidStudioProjects\MediaEffects\Application\build\intermediates\builds\debug\23455477010155\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="23487224504219"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\chenz\AndroidStudioProjects\MediaEffects\Application\build\intermediates\builds\debug\23487224504219\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="26268292391224"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\chenz\AndroidStudioProjects\MediaEffects\Application\build\intermediates\builds\debug\26268292391224\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build timestamp="26519662113370" >
+        <artifact
+            location="C:\Users\chenz\AndroidStudioProjects\MediaEffects\Application\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>

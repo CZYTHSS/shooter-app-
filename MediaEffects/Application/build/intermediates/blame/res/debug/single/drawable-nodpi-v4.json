@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\chenz\\AndroidStudioProjects\\MediaEffects\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\girl.jpg",
+        "source": "C:\\Users\\chenz\\AndroidStudioProjects\\MediaEffects\\Application\\src\\main\\res\\drawable-nodpi\\girl.jpg"
+    },
+    {
+        "merged": "C:\\Users\\chenz\\AndroidStudioProjects\\MediaEffects\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\child.jpg",
+        "source": "C:\\Users\\chenz\\AndroidStudioProjects\\MediaEffects\\Application\\src\\main\\res\\drawable-nodpi\\child.jpg"
+    },
+    {
+        "merged": "C:\\Users\\chenz\\AndroidStudioProjects\\MediaEffects\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\puppy.jpg",
+        "source": "C:\\Users\\chenz\\AndroidStudioProjects\\MediaEffects\\Application\\src\\main\\res\\drawable-nodpi\\puppy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\chenz\\AndroidStudioProjects\\MediaEffects\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\stage.jpg",
+        "source": "C:\\Users\\chenz\\AndroidStudioProjects\\MediaEffects\\Application\\src\\main\\res\\drawable-nodpi\\stage.jpg"
+    }
+]
